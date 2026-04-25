@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/churn-mlops/mlruns/562326693412276735/956c174384114a6c8ac29ac2bc48967e/artifacts
+end_time: 1773407851933
+entry_point_name: ''
+experiment_id: '562326693412276735'
+lifecycle_stage: active
+run_id: 956c174384114a6c8ac29ac2bc48967e
+run_name: vaunted-eel-991
+run_uuid: 956c174384114a6c8ac29ac2bc48967e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773407829524
+status: 3
+tags: []
+user_id: HP

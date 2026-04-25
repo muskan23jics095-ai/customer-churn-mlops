@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/churn-mlops/mlruns/562326693412276735/743976508f3f4b44a36c57dda1d41985/artifacts
+end_time: 1773408158399
+entry_point_name: ''
+experiment_id: '562326693412276735'
+lifecycle_stage: active
+run_id: 743976508f3f4b44a36c57dda1d41985
+run_name: brawny-turtle-624
+run_uuid: 743976508f3f4b44a36c57dda1d41985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773408136167
+status: 3
+tags: []
+user_id: HP

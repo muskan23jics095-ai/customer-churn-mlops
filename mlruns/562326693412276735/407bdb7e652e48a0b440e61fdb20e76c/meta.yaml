@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/churn-mlops/mlruns/562326693412276735/407bdb7e652e48a0b440e61fdb20e76c/artifacts
+end_time: 1771871685824
+entry_point_name: ''
+experiment_id: '562326693412276735'
+lifecycle_stage: active
+run_id: 407bdb7e652e48a0b440e61fdb20e76c
+run_name: carefree-hound-642
+run_uuid: 407bdb7e652e48a0b440e61fdb20e76c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771871658660
+status: 3
+tags: []
+user_id: HP
